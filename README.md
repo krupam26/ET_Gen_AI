@@ -94,3 +94,24 @@ npm install
 
 # Start development server
 npm run dev
+
+#go to backend folder
+cd backend
+
+# Create virtual environment
+python -m venv venv
+
+# Activate virtual environment
+# Windows:
+venv\Scripts\activate
+# Mac/Linux:
+source venv/bin/activate
+
+# Install dependencies
+pip install fastapi uvicorn crewai groq python-dotenv requests numpy pandas
+
+# Create .env file with your Groq API key
+echo "GROQ_API_KEY=your_groq_api_key_here" > .env
+
+# Run backend
+uvicorn main:app --reload --port 8000
