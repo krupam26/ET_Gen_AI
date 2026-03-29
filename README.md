@@ -84,10 +84,10 @@ Interactive Dashboard & Insights
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ET-AI-Money-Mentor-2026.git
+git clone https://github.com/krupam26/ET_Gen_AI.git
 
 # Go to frontend folder
-cd ET-AI-Money-Mentor-2026/frontend
+cd ET_Gen_AI/frontend
 
 # Install dependencies
 npm install
