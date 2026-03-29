@@ -32,6 +32,16 @@ It’s not just another chatbot — it’s a complete **AI Co-Pilot for Indian P
 | **Risk Alerts & Nudges**      | Behavioral finance alerts with actionable recommendations |
 
 ---
+## 📁 Project Structure
+
+ET_Gen_AI/
+├── frontend/               ← React + Vite code
+|  ├── screenshots/         ← Screenshots for submission
+├── backend/                ← FastAPI + CrewAI code
+├── README.md
+├── ARCHITECTURE.md
+├── IMPACT.md
+
 
 ## 🛠 Tech Stack
 
@@ -69,6 +79,8 @@ It’s not just another chatbot — it’s a complete **AI Co-Pilot for Indian P
 Interactive Dashboard & Insights
 ![Architecture](frontend/screenshots/dashboard.png)
 ---
+
+Demo Video: https://drive.google.com/drive/folders/1jZRFyo4QqvY44uPWmzb7wg4rcS6a4Z2p?usp=sharing
 
 ## 👥 Team
 
