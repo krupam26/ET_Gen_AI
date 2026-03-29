@@ -35,11 +35,17 @@ It’s not just another chatbot — it’s a complete **AI Co-Pilot for Indian P
 ## 📁 Project Structure
 
 ET_Gen_AI/
+
 ├── frontend/               ← React + Vite code
+
 |  ├── screenshots/         ← Screenshots for submission
+
 ├── backend/                ← FastAPI + CrewAI code
+
 ├── README.md
+
 ├── ARCHITECTURE.md
+
 ├── IMPACT.md
 
 
