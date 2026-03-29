@@ -38,7 +38,7 @@ ET_Gen_AI/
 
 ├── frontend/               ← React + Vite code
 
-|  ├── screenshots/         ← Screenshots for submission
+|      ├── screenshots/         ← Screenshots for submission
 
 ├── backend/                ← FastAPI + CrewAI code
 
